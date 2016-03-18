@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_surface_view_demo">SurfaceViewDemoActivity</string>
+    <string name="title_activity_share_sdkdemo">ShareSDKDemoActivity</string>
+    <string name="title_activity_my_view_demo">MyViewDemoActivity</string>
+    <string name="title_activity_notification_demo">NotificationDemoActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_flash">FlashActivity</string>
+
+</resources>
